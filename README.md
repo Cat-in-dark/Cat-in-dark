@@ -1,4 +1,4 @@
-# Ку, я студент ИГУ, учусь на разработку ПО
+## Ку, я студент ИГУ, учусь на разработку ПО
 
 ### Языки, которые я изучаю :mag::
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,lua,js,html,css)](https://skillicons.dev)
