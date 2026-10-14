@@ -1,16 +1,18 @@
-## Hi there 👋
+# Ку, я студент ИГУ, учусь на разработку ПО
 
-<!--
-**Cat-in-dark/Cat-in-dark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Языки, которые я изучаю :mag::
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,lua,js,html,css)](https://skillicons.dev)
+##
 
-Here are some ideas to get you started:
+### Технологии, которые я использую :hammer_and_wrench::
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode)](https://skillicons.dev)
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Форумы, которые я смотрю :eyes::
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![Habr](https://img.shields.io/badge/Habr-77A0C0?style=for-the-badge&logo=habr&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
+##
+
+### Дополнительно изучаю :heavy_plus_sign::
+[![My Skills](https://skillicons.dev/icons?i=blender,reveng)](https://skillicons.dev)
